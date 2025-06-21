@@ -119,7 +119,7 @@ Cybersecurity Intern @ EDUNET Foundation (May - June 2025)
 ---
 
 ## References
-
+* [IBM SkillsBuild Cybersecurity Fundamentals](https://skills.yourlearning.ibm.com/activity/PLAN-34E71B3AA2C1)
 * [PyCryptodome Documentation](https://pycryptodome.readthedocs.io)
 * [OpenCV Python Docs](https://docs.opencv.org/)
 * EDUNET Foundation Cybersecurity Internship Sessions (2025)
